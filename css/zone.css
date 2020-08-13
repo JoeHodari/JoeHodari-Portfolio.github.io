@@ -1,0 +1,16 @@
+body{
+	background: url("../pic/img11.jpg");
+	background-size: cover;
+	font-weight: bold;
+	font-family: 'Merienda', cursive;
+	color: black;
+}
+h1{
+	text-align: center;
+}
+h6{
+	font-size: 2em;
+}
+form{
+
+}
